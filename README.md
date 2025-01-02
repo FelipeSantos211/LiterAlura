@@ -1,6 +1,10 @@
 # LiterAlura - Catálogo de Livros 📚  
 Este projeto foi desenvolvido como parte do desafio **Alura + Oracle ONE** e tem como objetivo criar um sistema de catálogo de livros, onde é possível realizar interações via console com os usuários. O sistema permite buscar livros pela **API Gutendex**, inserir livros manualmente no banco de dados, e realizar algumas consultas como a quantidade de livros por idioma ou listar autores.
 
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1MxrUhHbZjX2c5eG3XQNAZ_7Asl4Za-iP" width="200"/>
+</p>
+
 ---
 
 ## 📋 Funcionalidades  
